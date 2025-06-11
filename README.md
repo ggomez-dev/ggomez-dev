@@ -1,16 +1,19 @@
-## Hi there 👋
+# my-github-site
 
-<!--
-**ggomez-dev/ggomez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">My name is Gaby and I'm a tech professional from México.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2004<br>📚 I'm currently learning Git<br>🎯 Goals: Master Git<br>🎲 Fun facts: I climbed a volcano in México and handshaked Spain's Queen and King when I was 16yo.</p>
+
+###
+
+<h2 align="left">I code with HTML and CSS.</h2>
